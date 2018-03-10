@@ -1,0 +1,14 @@
+name: JmartTest
+version: 1.0
+author: Jordan
+main: JmartMain
+commands:
+  respond:
+    description: 'sends back message in GOLD'
+    usage: /respond
+  clearthencookie:
+    description: 'COOKIE'
+    usage: /clearthencookie
+  cleartitle:
+    description: 'Clears a players title'
+    usage: /cleartitle
